@@ -6,3 +6,5 @@ def horner_rule(a,n,x):
 a = [1,2,2,54,699]
 # [1,2,3,4,5,6] x = 5
 print(horner_rule(a,5,3))
+
+test
